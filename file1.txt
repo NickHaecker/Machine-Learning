@@ -1,0 +1,13 @@
+Apple,Amy
+Butter,Bob
+Cheese,Chucky
+Dinkel,Dieter
+Egg,Edward
+Oxtail,Oscar
+Anchovie,Alex
+Avocado,Adam
+Apple,Alex
+Apple,Adam
+Dinkel,Dieter
+Doughboy,Pilsbury
+McDonald,Ronald
